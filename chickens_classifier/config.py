@@ -1,3 +1,4 @@
+"""Configuration for the project."""
 from dataclasses import dataclass
 from pathlib import Path
 

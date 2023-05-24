@@ -1,5 +1,5 @@
 {
-    "name": "chicken-classifier",
+    "name": "chickens-classifier",
     "build": {
         "dockerfile": "../Dockerfile",
         "context": "..",
@@ -33,7 +33,7 @@
                 "python.linting.pylintPath": "/home/${localEnv:USER}/.local/bin/pylint",
                 // pytest
                 "python.testing.pytestArgs": [
-                    "chicken_classifier"
+                    "chickens_classifier"
                 ],
                 "python.testing.pytestEnabled": true,
             },

@@ -1,1 +1,1 @@
-# chicken-classifier
+# chickens-classifier
